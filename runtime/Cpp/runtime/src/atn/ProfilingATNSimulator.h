@@ -11,6 +11,7 @@
 #include "atn/ParserATNSimulator.h"
 #include "antlr4-common.h"
 #include "atn/DecisionInfo.h"
+#include <chrono>
 
 namespace antlr4 {
 namespace atn {

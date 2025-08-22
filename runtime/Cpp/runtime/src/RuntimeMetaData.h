@@ -70,7 +70,7 @@ namespace antlr4 {
     /// omitted, the {@code -} (hyphen-minus) appearing before it is also
     /// omitted.</li>
     /// </ul>
-    static const std::string VERSION;
+    //static const std::string VERSION;
 
     /// <summary>
     /// Gets the currently executing version of the ANTLR 4 runtime library.

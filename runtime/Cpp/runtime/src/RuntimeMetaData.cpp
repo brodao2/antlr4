@@ -10,7 +10,7 @@
 
 using namespace antlr4;
 
-const std::string RuntimeMetaData::VERSION = ANTLRCPP_VERSION_STRING;
+const std::string /*RuntimeMetaData::*/VERSION = ANTLRCPP_VERSION_STRING;
 
 std::string RuntimeMetaData::getRuntimeVersion() {
   return VERSION;
